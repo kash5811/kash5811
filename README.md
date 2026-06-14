@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KSHITIJ SINGH</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A passionate Cloud engineer</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **kshitijs0902@gmail.com**
 
